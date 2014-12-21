@@ -1,0 +1,223 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+
+#navmeni ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	list-style-image: none;
+}
+
+#navmeni li {
+	z-index: 1;
+	color: #ffffff;
+	position: absolute;
+	float:right;
+	right: -300px;
+	left: 300px;
+	top: 25px;
+	display: inline;
+	padding: 5px 20px 5px 20px;
+	
+} 
+
+#navmenu a {
+	color:#ffffff;
+	text-decoration: none;
+	list-style-image: none;
+}
+
+#navmenu a:link {
+	color:#BDBDBD;
+}
+
+#navmenu a:hover {
+	color: #BDBDBD;
+}
+
+/*#navmenu ul li a {
+	text-decoration: none;
+	margin: 4px;
+	padding: 5px 20px 5px 20px;
+
+}*/
+
+
+.topnavigacijaboja {
+	display: block;
+	width: 100%;
+	height: 90px;
+	background-color: #02918c;
+	margin: 0 auto;
+}
+
+
+
+
+.logotekst {
+	font-family: 'Open Sans';
+	font-weight: 800;
+	font-size: 40.5px;
+	color:#ffffff;
+	position: relative;
+	text-decoration: none;
+	top: 15px;
+	left: 55px;
+}
+
+
+
+#fotka {
+	vertical-align: middle;
+	float: center;
+	position: absolute;
+	width: 100%;
+	z-index: -1;
+}
+
+.dugme {
+	vertical-align: middle;
+	display:block;
+	margin: 0 auto;
+	margin-top: 700px;
+	height: 70px;
+	width: 300px;
+	background-color: #cfc91d;
+}
+
+.linija {
+	vertical-align: middle;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -230px;
+	height: auto;
+	width: auto;
+	max-width: 270px;
+	max-height: 270px;
+}
+
+#dugmetekst {
+	z-index: +1;
+	text-align: center;
+	padding-top: 19px;
+	font-size: 22px;
+	letter-spacing: 2px;
+	font-family: "Open Sans";
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+#manjinaslov {
+	font-family: 'Open Sans';
+	font-weight: 600;
+	font-size: 35pt;
+	position:absolute;
+	color:#ffffff;
+	top: 350px;
+	width: 100%;
+	text-align:center;
+	z-index: 1;
+	
+}
+
+#velikinaslov {
+	font-family: 'Open Sans';
+	letter-spacing: 0.4em;
+	font-weight: 800;
+	font-size: 75pt;
+	position:absolute;
+	color:#ffffff;
+	top: 350px;
+	width: 100%;
+	text-align:center;
+	z-index: 1;
+}
+
+#najmanjinaslov {
+	font-family: 'Open Sans';
+	font-weight: 600;
+	font-size: 22pt;
+	position:absolute;
+	color:#ffffff;
+	top: 550px;
+	width: 100%;
+	text-align:center;
+	z-index: 1;
+}
+
+a:link {
+	font-family: "Open Sans";
+	font-weight: 800;
+	text-transform: uppercase;
+	text-decoration: none;
+	color:#000000;
+}
+
+a:visited {
+	font-family: "Open Sans";
+	font-weight: 800;
+	text-transform: uppercase;
+	text-decoration: none;
+	color:#000000;
+
+}
+
+a:hover {
+	font-family: "Open Sans";
+	font-weight: 800;
+	text-transform: uppercase;
+	text-decoration: none;
+	color:#000000;
+
+}
+
+a:active {
+	font-family: "Open Sans";
+	font-weight: 800;
+	text-transform: uppercase;
+	text-decoration: none;
+	color:#000000;
+}
+
+/*h1 {
+	font-family: 'Open Sans';
+	font-weight: 800;
+	font-size: 68pt;
+	position:absolute;
+	float:center;
+	color:#ffffff;
+	width: 100%;
+	text-align:center;
+	letter-spacing: 15px;
+}*/
+
+/*
+h3 {
+	font-family: "Open Sans";
+	font-weight: normal;
+	font-size: 30pt;
+	position:absolute;
+	float:center;
+	color:#ffffff;
+	top: 200px;
+	width: 100%;
+	text-align:center;
+
+}
+
+h4 {
+	font-family: 'Open Sans';
+	display: block;
+	font-weight: normal;
+	font-size: 18pt;
+	width: 100%;
+	position:absolute;
+	top: 340px;
+	text-align: center;
+	color:#ffffff;
+
+}
+*/
+
+
+
